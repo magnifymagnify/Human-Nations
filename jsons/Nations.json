@@ -1,0 +1,50 @@
+[
+  	{
+		"name": "Human",
+		"leaderName": "Human 79",
+		"adjective": ["Human"],
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+		"declaringWar": "Tell me, do you all know how numerous my armies are? No? Today, you shall find out!",
+		"attacked": "Fate is against you. You earned our animosity in your exploration. Your days are numbered.",
+		"defeated": "The fates became to hate me. This is it? You wouldn't destroy us so without their help.",
+		"introduction": "We welcome you to this most pleasant kingdom.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What is it now?",
+		"tradeRequest": "I just had the marvelous idea, and I think you'll appreciate it too.",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [81, 0, 137],
+
+		"uniqueName": "Elite Training",
+		"uniques": [
+			"Great General provides double combat bonus",
+			"[Tactical Unit] is earned [50]% faster"
+		],
+		"cities": [
+			"Human 01",
+			"Human 02",
+			"Human 03",
+			"Human 04",
+			"Human 05",
+			"Human 06",
+			"Human 07",
+			"Human 08",
+			"Human 09",
+			"Human 10",
+			"Human 11",
+			"Human 12",
+			"Human 13",
+			"Human 14",
+			"Human 15",
+			"Human 16",
+			"Human 17",
+			"Human 18",
+			"Human 19",
+			"Human 20"
+		],
+		"spyNames": ["Human Alfa", "Human Bravo", "Human Charlie", "Human Delta", "Human Echo", "Human Foxtrot", "Human Golf", "Human Hotel", "Human India", "Human Juliett"]
+    }
+]
